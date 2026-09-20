@@ -1,6 +1,6 @@
 {
   "mari" : "https://simsimi-api-production.up.railway.app",
-  "store" : "https://cmd-store.agi.bd",
+  "store" : "https://store.agi.bd",
   "pin" : "https://pinterest-api.agi.bd"
   "ytdl" : "https://ytdl-api.agi.bd"
 }
